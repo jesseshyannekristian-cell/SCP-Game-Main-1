@@ -1,11 +1,11 @@
 Model Information:
-* title:	Scp 682
-* source:	https://sketchfab.com/3d-models/scp-682-effff1cd246542919a0aad70eaad8bc5
-* author:	Siren Head Roblox Official (https://sketchfab.com/cg097)
+* title:	SCP-999
+* source:	https://sketchfab.com/3d-models/scp-999-5bf02c90859044648afc40606ddf31de
+* author:	SCP (https://sketchfab.com/scpfoundation2008)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Scp 682" (https://sketchfab.com/3d-models/scp-682-effff1cd246542919a0aad70eaad8bc5) by Siren Head Roblox Official (https://sketchfab.com/cg097) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "SCP-999" (https://sketchfab.com/3d-models/scp-999-5bf02c90859044648afc40606ddf31de) by SCP (https://sketchfab.com/scpfoundation2008) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
