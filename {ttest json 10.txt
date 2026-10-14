@@ -1,0 +1,48 @@
+       {
+          "modId":"6A46F3EBCADFC902",
+          "name": "AmbientRenegadesExtendedby herbalistxy",
+          "required": true
+      },
+      {
+        "modId": "6A48CA4DE07124C4",
+        "name": "Zombie Ambient Hordeby White Crusader",
+        "required": true
+      },
+      {
+        "modId": "6A3C93F50E1840AE",
+        "name": "DiscordConnectByCryneXby YTCryneX",
+        "required": true
+      },
+      {
+        "modId": "6A3CF8395F29D45A",
+        "name": "Frosteds Gear Packby FrostedJams",
+        "required": true
+      },
+      {
+        "modId": "DCEABDAB50000001", 
+        "name": "Dynamic Conflict Engineby Pahntz",
+        "required": true
+      },
+ {
+        "modId": "6A2679893819CB33",
+        "name": "BLACKTHORNS BLACK FMTVA2by BL4CKTHORN",
+        "required": true
+      },
+
+      {
+        "modId": "5EB7536BA1AEDEDE",
+        "name": "Cursed Reforgerby ComradeBear",
+        "required": true
+      },
+     {
+        "modId": "698CD8D9FD25112D",
+        "name": "Monte Grappaby gb5686956",
+        "required": true
+     },
+      {
+        "modId": "7A3D1B55E4C94F37",
+        "name": "DSK Keep Weapon On Uncon Fixby maslos",
+        "required": true
+      },
+MTF Gamma-4 ("Blondebeard's Crew")
+Mobile Task Force Upsilon-53 LoreDesignation: MTF Upsilon-53.Nickname: "Alien Robots In Space".Composition: The unit is entirely made up of PSHUD units (Powered Special Hazard Urban Deployment humanoid robot models, specifically tied to instances like SCP-1360) rather than living human personnel.Purpose: They are deployed for operational tasks, monitoring, and deep exploration in extreme cosmic or environmental conditions that would be instantly fatal to humans, minimizing the risk of biological contamination or organic death.Notable Assignment: They feature prominently in the documentation and containment logistics for SCP-4011, performing continuous operations where a standard "tacticool" human strike team cannot survive.Other Space-Adjacent Foundation UnitsMTF Gamma-4 ("Blondebeard's Crew"): Operates out of Lunar Area-32, managing zero-gravity anomalies and space-transfer logistics often utilizing SCP-120 (the Teleporting Paddling Pool).MTF Gamma-5 ("Red Herrings"): Tasked with scrubbing civilian imagery, diverting public attention, and covering up anomalies or events that happen in deep space (such as dark matter anomalies like SCP-8984).
