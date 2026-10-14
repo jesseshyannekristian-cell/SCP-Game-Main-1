@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "Games",
+	"Description": "First-person shooter set at Site-20.",
+	"Modules": [
+		{
+			"Name": "FoundationSiteOverseer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

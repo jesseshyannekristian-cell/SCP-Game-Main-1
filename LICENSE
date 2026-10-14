@@ -1,0 +1,65 @@
+FOUNDATION — SCP Containment Breach (Unreal Engine 5.5)
+Copyright (c) 2026 The Foundation project contributors.
+
+This work — including its source code and SCP-themed content — is licensed under the
+Creative Commons Attribution-ShareAlike 3.0 Unported License (CC BY-SA 3.0).
+
+================================================================================
+SUMMARY (human-readable, not a substitute for the license)
+================================================================================
+You are free to:
+  * Share — copy and redistribute the material in any medium or format.
+  * Adapt — remix, transform, and build upon the material for any purpose, even
+    commercially.
+
+Under the following terms:
+  * Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any reasonable
+    manner, but not in any way that suggests the licensor endorses you or your use.
+  * ShareAlike — If you remix, transform, or build upon the material, you must
+    distribute your contributions under the same license as the original.
+  * No additional restrictions — You may not apply legal terms or technological
+    measures that legally restrict others from doing anything the license permits.
+
+================================================================================
+THIRD-PARTY NOTICES
+================================================================================
+1. SCP Foundation content
+   All SCP names, numbers, descriptions, and lore referenced in this project
+   (e.g. SCP-173, SCP-096, SCP-106, SCP-682, MTF XI-87, Chaos Insurgency, UIU,
+   Dr. Wondertainment) are the creative work of the SCP Foundation community and
+   are licensed under CC BY-SA 3.0.
+     - SCP Foundation Wiki: https://scp-wiki.wikidot.com/
+     - Licensing Guide:      https://scp-wiki.wikidot.com/licensing-guide
+   This is a non-official, fan-made work, not affiliated with or endorsed by the
+   SCP Foundation or any of its authors.
+
+2. Unreal Engine
+   Unreal(R) Engine, including its source headers, runtime, and Epic-provided
+   content (such as the /Engine/BasicShapes/Cube mesh used for procedural
+   geometry), is governed by the Unreal Engine End User License Agreement (EULA),
+   NOT by CC BY-SA 3.0.
+     - Unreal Engine EULA: https://www.unrealengine.com/eula
+   Unreal and its logo are trademarks or registered trademarks of Epic Games, Inc.
+
+================================================================================
+DISCLAIMER OF WARRANTY
+================================================================================
+This software is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability, fitness
+for a particular purpose, and noninfringement. In no event shall the authors or
+copyright holders be liable for any claim, damages, or other liability, whether
+in an action of contract, tort, or otherwise, arising from, out of, or in
+connection with the software or the use or other dealings in the software.
+
+================================================================================
+FULL LICENSE TEXT
+================================================================================
+The complete legal code of the Creative Commons Attribution-ShareAlike 3.0
+Unported License is available at:
+
+    https://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+By using, copying, modifying, or distributing this work, you accept and agree to
+be bound by the terms of the CC BY-SA 3.0 license and the third-party notices
+above.
