@@ -1,0 +1,11 @@
+Model Information:
+* title:	Waverider Escape Pod v3.2
+* source:	https://sketchfab.com/3d-models/waverider-escape-pod-v32-a932c2931b914c0b8e5db58a0f12ccd9
+* author:	Vaportrash (https://sketchfab.com/vaportrash)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Waverider Escape Pod v3.2" (https://sketchfab.com/3d-models/waverider-escape-pod-v32-a932c2931b914c0b8e5db58a0f12ccd9) by Vaportrash (https://sketchfab.com/vaportrash) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

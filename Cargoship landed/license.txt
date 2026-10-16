@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Cargo Ship Design
+* source:	https://sketchfab.com/3d-models/old-cargo-ship-design-ee43d5e3b1784354b7a2c8a4ee2507aa
+* author:	WideFoot (https://sketchfab.com/WideFoot)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Cargo Ship Design" (https://sketchfab.com/3d-models/old-cargo-ship-design-ee43d5e3b1784354b7a2c8a4ee2507aa) by WideFoot (https://sketchfab.com/WideFoot) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
